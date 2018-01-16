@@ -1,0 +1,32 @@
+#General
+{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: verdana;
+}
+
+#MasterMenu
+{
+  padding: 10px;
+}
+
+#Footer
+{
+  border-top: solid black 1px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.tittle
+{
+  background-color: aliceblue;
+  text-align: center;
+  padding: 10px;
+}
+
+.resaltado
+{
+  background-color: yellow;
+}
